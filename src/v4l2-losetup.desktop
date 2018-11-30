@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=V4L2 Loopback Setup
+Comment=Setup your network camera as a device.
+GenericName=Loopback Device
+Exec=/usr/bin/v4l2-losetup
+Icon=camera-web
+Type=Application
+StartupNotify=true
+Categories=Utility;
